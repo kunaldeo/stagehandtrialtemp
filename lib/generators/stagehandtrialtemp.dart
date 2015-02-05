@@ -3,8 +3,9 @@
 // license that can be found in the LICENSE file.
 library stagehand.stagehandtrialtemp;
 
-import '../../../../stagehand/lib/stagehand.dart';
-import '../../../../stagehand/lib/src/common.dart';
+import 'package:stagehand/stagehand.dart';
+import 'package:stagehand/src/common.dart';
+
 import 'stagehandtrialtemp_data.dart';
 
 /**
