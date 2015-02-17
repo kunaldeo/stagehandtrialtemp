@@ -1,3 +1,6 @@
 name: stagehandtrialtemp
+description: Stagehand trial plugin/template
+homepage: https://github.com/kunaldeo/stagehandtrialtemp
 dependencies:
-  stagehand: 'any'
+  plugins: 'any'
+  
