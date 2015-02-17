@@ -2,7 +2,7 @@
 // All rights reserved. Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-List<String> data = [
+List<String> templateData = [
   ".gitignore",
   "text",
   """LmJ1aWxkbG9nCi5EU19TdG9yZQouaWRlYQoucHViLwpidWlsZC8KcGFja2FnZXMKcHVic3BlYy5s
