@@ -13,4 +13,3 @@ void main(List<String> args, SendPort port) {
     rec.send(pluginData);
   });
 }
-
