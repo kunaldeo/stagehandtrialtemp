@@ -9,6 +9,7 @@ void main(List<String> args, SendPort port) {
     pluginData['info'] = "Stagehand Trial Template";
     pluginData['description'] = "Stagehnad Trial Template Information";
     pluginData['entrypoint'] = "web/index.html";
+    pluginData['help'] = "to run your app, use 'pub serve'";
     pluginData['data'] = templateData;
     rec.send(pluginData);
   });
